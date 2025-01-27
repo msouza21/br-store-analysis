@@ -6,6 +6,7 @@
 ![Docker](https://img.shields.io/badge/Container-Docker-yellow)
 ![PowerBI](https://img.shields.io/badge/Visualization-PowerBI-yellow)
 ![Tableau](https://img.shields.io/badge/Visualization-Tableau-blueviolet)
+![Ubuntu - WSL](https://img.shields.io/badge/System-OS-Ubuntu-Orange)
 
 ## 📌 Overview
 This project focuses on analyzing the **Brazilian E-Commerce Public Dataset** from Kaggle using **big data tools** like **Apache Spark** and **PostgreSQL**. The goal is to gain insights into customer behavior, perform sentiment analysis on reviews, and build machine learning models to predict customer satisfaction. The project integrates **Python** for data analysis, **PostgreSQL** for database management, and **Power BI/Tableau** for visualization. All services are containerized using **Docker**.
@@ -21,6 +22,6 @@ This project focuses on analyzing the **Brazilian E-Commerce Public Dataset** fr
 ## 🛠️ Tools and Technologies
 - **Python Libraries:** pandas, NumPy, Matplotlib, Seaborn, TextBlob, scikit-learn, psycopg2.
 - **Database:** PostgreSQL.
-- **Containerization:** Docker (Will run the PGSQL and Spark).
+- **Containerization:** Docker (Will run the PGSQL).
 - **Visualization:** Power BI, Tableau.
 - **Version Control:** Git, GitHub.
